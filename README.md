@@ -1,5 +1,3 @@
-# Hey, it's me! 👋
-
 ## 🧑‍💻 About Me
 Hi, I'm **Yanis Benyacine**, a passionate developer specializing in **Java**, **Minecraft Modding**, and **Minecraft Plugins**. Currently, I'm a first-year Inforlatique student at **Ynov Campus**, and I love exploring new technologies, solving problems, and teaching others about programming.
 

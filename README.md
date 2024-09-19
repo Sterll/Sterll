@@ -21,5 +21,3 @@ Hi, I'm **Yanis Benyacine**, a passionate developer specializing in **Java**, **
 - Twitter: [@yanis_bny](https://x.com/yanis_bny)
 
 ![Yanis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sterll&show_icons=true&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sterll)](https://github.com/ryo-ma/github-profile-trophy)

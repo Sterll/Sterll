@@ -5,7 +5,6 @@ Hi, I'm **Yanis Benyacine**, a passionate developer specializing in **Java**, **
 - 💻 **Languages**: Java, JavaScript, HTML.
 - 🛠️ **Tools & Technologies**: Minecraft Modding, Minecraft Plugin, GLua, MySQL, Git, IntelliJ IDEA, Docker, RestAPI.
 - 🌱 **Currently Learning**: GLua, Go, C++
-- 🇩🇰 **Interested In**: Danish culture and expanding my horizons internationally.
 
 ## 🔥 My Skills
 - **Java**: Crafting complex back-end systems, building Minecraft mods.

@@ -4,7 +4,7 @@ Hi, I'm **Yanis Benyacine**, a passionate developer specializing in **Java**, **
 - 🎓 **Education**: Bachelor 1 in Informatique at **Ynov Campus**.
 - 💻 **Languages**: Java, JavaScript, HTML.
 - 🛠️ **Tools & Technologies**: Minecraft Modding, Minecraft Plugin, GLua, MySQL, Git, IntelliJ IDEA, Docker, RestAPI.
-- 🌱 **Currently Learning**: GLua, Go, C++
+- 🌱 **Currently Learning**: GLua, Go, C++, Java
 
 ## 🔥 My Skills
 - **Java**: Crafting complex back-end systems, building Minecraft mods.

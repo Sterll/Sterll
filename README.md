@@ -2,7 +2,7 @@
 Hi, I'm **Yanis Benyacine**, a passionate developer specializing in **Java**, **Minecraft Modding**, and **Minecraft Plugins**. Currently, I'm a first-year Inforlatique student at **Ynov Campus**, and I love exploring new technologies, solving problems, and teaching others about programming.
 
 - 🎓 **Education**: Bachelor 1 in Informatique at **Ynov Campus**.
-- 💻 **Languages**: Java, JavaScript, HTML.
+- 💻 **Languages**: Java, JavaScript, GLua.
 - 🛠️ **Tools & Technologies**: Minecraft Modding, Minecraft Plugin, GLua, Java, MySQL, Git, IntelliJ IDEA, RestAPI.
 - 🌱 **Currently Learning**: GLua, Go, C++, Java
 

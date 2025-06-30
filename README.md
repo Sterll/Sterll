@@ -11,7 +11,7 @@ Hi, I'm **Yanis Benyacine**, a passionate developer specializing in **Java** and
 - **JavaScript**: Creating dynamic websites and services.
 - **Modding**: Turning ideas into fun Minecraft gameplay experiences.
 - **Plugins**: Developing and managing plugins for Minecraft or other platforms.
-- **GLua**: Working with Garry's Mod Lua for scripting game mechanics and mods.
+- **FiveM**: Working with GTA V - FiveM Lua for scripting game mechanics.
 
 ## 🌐 Connect with Me
 - LinkedIn: [Yanis Benyacine](https://www.linkedin.com/in/yanis-benyacine-5a482528b/)

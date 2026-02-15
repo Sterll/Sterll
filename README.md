@@ -1,8 +1,8 @@
 # Hey, I'm Yanis 👋
 
-**19 y/o Software Engineer** building things that scale — from full-stack ecosystems to game servers to desktop apps.
+**19 y/o Software Engineer** building things that scale. Full-stack ecosystems, game servers, desktop apps.
 
-Currently a CS student at **Ynov Campus** (Lille, France) and freelance developer. I don't just write code — I architect systems, deploy infrastructure, and ship products.
+Currently a CS student at **Ynov Campus** (Lille, France) and freelance developer. I don't just write code, I architect systems, deploy infrastructure, and ship products.
 
 ## What I'm building
 
@@ -13,34 +13,34 @@ The **first and only desktop GUI for Claude Code** (Anthropic's AI). Open source
 > `Electron` `xterm.js WebGL` `node-pty` `esbuild`
 
 ### 🌌 Quantum Studios
-My personal ecosystem — **4 connected apps** running on dedicated infrastructure with shared auth.
+My personal ecosystem. **4 connected apps** running on dedicated infrastructure with shared auth.
 
 | App | What it does |
 |-----|-------------|
 | **Arcade** | 6 real-time multiplayer games (Wavelength, Undercover, Who Of Us, WordBomb, Dilemme, StoryChain) |
-| **Lucid** | Collaborative Kanban + real-time whiteboard — aiming for public SaaS |
+| **Lucid** | Collaborative Kanban + real-time whiteboard. Aiming for public SaaS |
 | **Writer** | Emotional journaling app, PWA mobile (Capacitor) |
-| **QuantumRP** | Revolutionary Minecraft RP server — rethinking what RP can be on MC |
+| **QuantumRP** | Revolutionary Minecraft RP server. Rethinking what RP can be on MC |
 
 > `React` `TypeScript` `Express` `Socket.io` `Prisma` `Docker` `Clean Architecture`
 
 ## Tech I work with
 
-**Languages** — Java, TypeScript, JavaScript, Lua, Python — *learning Go & C#*
+**Languages** · Java, TypeScript, JavaScript, Lua, Python · *learning Go & C#*
 
-**Backend** — Express, Socket.io, Prisma, Redis, RabbitMQ, REST APIs
+**Backend** · Express, Socket.io, Prisma, Redis, RabbitMQ, REST APIs
 
-**Frontend** — React, Tailwind, Electron, Vite
+**Frontend** · React, Tailwind, Electron, Vite
 
-**Databases** — MySQL, MariaDB, MongoDB
+**Databases** · MySQL, MariaDB, MongoDB
 
-**DevOps & Infra** — Docker, Proxmox, NGINX, Traefik, Linux, CI/CD, Pterodactyl, Hetzner VPS
+**DevOps & Infra** · Docker, Proxmox, NGINX, Traefik, Linux, CI/CD, Pterodactyl, Hetzner VPS
 
-**Tools** — Git, IntelliJ, VS Code, Jira
+**Tools** · Git, IntelliJ, VS Code, Jira
 
 ## Beyond code
 
-I also do **FiveM scripting** (Lua 5.4 — custom UIs, job systems, state management) and **Minecraft plugin development** (Paper/Spigot — UHC frameworks, custom APIs, multi-server architectures).
+I also do **FiveM scripting** (Lua 5.4, custom UIs, job systems, state management) and **Minecraft plugin development** (Paper/Spigot, UHC frameworks, custom APIs, multi-server architectures).
 
 On the infra side, I manage a full **Proxmox setup** with gateway VMs, data VMs (Redis + MariaDB), reverse proxies, SSL, and dynamic multi-server deployments.
 

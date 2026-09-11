@@ -10,8 +10,8 @@ I don't just write code. I architect systems, run the infrastructure under them,
 
 ## What I'm building
 
-### 🎮 [SpaceNewRP](https://spacenewroleplay.fr) — Lead Developer
-**Top 6 FiveM roleplay server in France.** ~650 concurrent players on a weekday evening.
+### 🎮 [SpaceNewRP](https://spacenewroleplay.fr) · Lead Developer
+**One of the biggest FiveM roleplay servers in France.** ~650 concurrent players on a weekday evening.
 
 I lead the dev team: architecture decisions, code review, and the systems that keep 650 simultaneous players in sync without the server falling over. Custom job systems, state management, economy, and the tooling the rest of the team builds on.
 
